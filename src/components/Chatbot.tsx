@@ -12,7 +12,7 @@ interface Msg {
 }
 
 const quickBtns = [
-  { label: 'Micro / AE', q: "Je suis micro-entrepreneur ou auto-entrepreneur" },
+  { label: 'Micro-entreprise', q: "Je suis micro-entrepreneur ou auto-entrepreneur" },
   { label: 'EI classique', q: "J'ai une EI entreprise individuelle" },
   { label: 'EURL / SASU', q: "J'ai une EURL ou une SASU" },
   { label: 'SARL / SAS', q: "J'ai une SARL, SAS ou SA" },
